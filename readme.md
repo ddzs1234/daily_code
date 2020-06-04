@@ -9,7 +9,7 @@ pp04
 
 o3n2
 
-#astronomy python resource
+# astronomy python resource
 
 - [umd-python example](https://www.astro.umd.edu/~msk/computing/python/#examples): styles
 
